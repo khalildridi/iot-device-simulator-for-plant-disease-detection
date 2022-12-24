@@ -1,7 +1,6 @@
-# Farmassist IoT Device Simulator
+#  IoT Device Simulator for plant disease detection
 
-*[Ray Jasson](mailto:holmesqueen2070@yahoo.com)*<br>
-*31/01/2021*<br>
+
 
 <br>
 
